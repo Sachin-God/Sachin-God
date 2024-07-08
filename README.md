@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-god&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-god" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-god" alt="sachin-god" /></a> </p>
-
 - 🌱 I’m currently learning **Redis, Docker, Cpp**
 
 - 📫 How to reach me **sachinksingh1234@gmail.com**
